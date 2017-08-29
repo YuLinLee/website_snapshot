@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.796b2407.css",
   "main.css.map": "static/css/main.796b2407.css.map",
-  "main.js": "static/js/main.3ee7e325.js",
-  "main.js.map": "static/js/main.3ee7e325.js.map",
+  "main.js": "static/js/main.efa6818b.js",
+  "main.js.map": "static/js/main.efa6818b.js.map",
   "static/media/blog.png": "static/media/blog.7f7c6a6c.png",
   "static/media/checkout.png": "static/media/checkout.f3ff8d2b.png",
   "static/media/cook.png": "static/media/cook.b4422161.png",
@@ -10,6 +10,7 @@
   "static/media/email_resetpassword.png": "static/media/email_resetpassword.5b1475ba.png",
   "static/media/email_verification.png": "static/media/email_verification.e591ddad.png",
   "static/media/order.png": "static/media/order.f42e7618.png",
+  "static/media/origin.png": "static/media/origin.52403bd7.png",
   "static/media/product.png": "static/media/product.a5a9e4cf.png",
   "static/media/shoppingcart.png": "static/media/shoppingcart.d707bf47.png",
   "static/media/signupin.png": "static/media/signupin.caa57485.png"
